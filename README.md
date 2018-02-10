@@ -7,7 +7,7 @@
 | [Divvy](https://getdivvy.com/jobs/) | Lehi, UT|
 | [Domo](https://www.domo.com/company/careers) | American Fork, UT |
 | [Entrata](https://www.entrata.com/company/careers) | Lehi, UT |
-| [Grow](https://workforcenow.adp.com/jobs/apply/posting.html?client=GrowInc&ccId=1587858689_4783&type=MP&lang=en_US) | |
+| [Grow](https://workforcenow.adp.com/jobs/apply/posting.html?client=GrowInc&ccId=1587858689_4783&type=MP&lang=en_US) | Orem, UT|
 | [HireVue](https://www.vuenation.com/jobs) | South Jordan, UT |
 | [Inmoment](http://www.inmoment.com/careers/) | South Jordan, UT|
 | [Inside Sales](https://www.insidesales.com/careers/open-positions-inside-sales-jobs/) | Lehi, UT |
