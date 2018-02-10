@@ -5,7 +5,7 @@
 | [97th Floor](https://97thfloor.com/careers/) | Lehi, UT |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) | Lehi, UT |
 | [Ancestry](https://www.ancestry.com/corporate/careers/search-jobs) | Lehi, UT|
-| [Boostability(https://www.boostability.com/careers/#jobs)] | Orem, UT; Lehi, UT |
+| [Boostability](https://www.boostability.com/careers/#jobs) | Orem, UT; Lehi, UT |
 | [Canopy Tax](https://www.canopytax.com/careers/) | Lehi, UT|
 | [Digicert](https://www.digicert.com/careers/) | Lehi, UT|
 | [Divvy](https://getdivvy.com/jobs/) | Lehi, UT|
