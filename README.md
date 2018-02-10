@@ -1,8 +1,7 @@
 # utah-se-jobs
 ### a handy collection of career pages for software engineering at tech companies in utah
 | Company | Location |
-| ---- | ---- |
-
+| --- | --- |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) | Lehi, UT |
 | [Ancestry](https://www.ancestry.com/corporate/careers/search-jobs) | Lehi, UT|
 | [Divvy](https://getdivvy.com/jobs/) | Lehi, UT|
