@@ -1,4 +1,4 @@
-# utah-se-jobs
+# Utah Software Engineering Jobs
 ### a handy collection of career pages for software engineering at tech companies in utah
 | Company | Location |
 | --- | --- |
