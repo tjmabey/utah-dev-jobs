@@ -34,5 +34,10 @@
 | [Pluralsight](https://www.pluralsight.com/careers/engineering) | South Jordan, UT |
 | [Podium](https://www.podium.com/company/jobs/) | Lehi, UT |
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT |
+| [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
+| [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
+| [Snap Inc](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
 | [Weave](https://weave.workable.com) | Lehi, UT |
 | [Workfront](https://www.workfront.com/careers/) | Lehi, UT |
+
+*Please feel free to add companies you think should be on this list by submitting a pull request*
