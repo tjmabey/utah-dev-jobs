@@ -15,6 +15,7 @@
 | [Experticity](https://www.experticity.com/experticity-careers/) | Salt Lake City, UT |
 | [Grow](https://workforcenow.adp.com/jobs/apply/posting.html?client=GrowInc&ccId=1587858689_4783&type=MP&lang=en_US) | Orem, UT|
 | [HireVue](https://www.vuenation.com/jobs) | South Jordan, UT |
+| [Homie](https://www.homie.com/careers) | South Jordan, UT |
 | [ImagineLearning](http://www.imaginelearning.com/careers) | Provo, UT |
 | [Inmoment](http://www.inmoment.com/careers/) | South Jordan, UT |
 | [Inside Sales](https://www.insidesales.com/careers/open-positions-inside-sales-jobs/) | Lehi, UT |
@@ -36,7 +37,9 @@
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT |
 | [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
 | [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
-| [Snap Inc](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
+| [Snap](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
+| [SoFi](https://www.sofi.com/careers/) | Cottonwood Heights, UT |
+| [Teem](https://teem.workable.com) | Salt Lake City, UT |
 | [Weave](https://weave.workable.com) | Lehi, UT |
 | [Workfront](https://www.workfront.com/careers/) | Lehi, UT |
 
