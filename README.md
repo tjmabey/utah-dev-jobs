@@ -23,11 +23,13 @@
 | [Jane](https://jane.com/careers) | Lehi, UT |
 | [Jive](https://jive.com/careers/locations/?office=44469) | Orem, UT |
 | [Jolt](https://joltup.com) | Orem, UT |
+| [JJUMPP](https://jjumpp.com/careers/) | Lehi, UT |
 | [Lingotek](https://www.lingotek.com/careers) | Lehi, UT |
 | [Lucid](https://www.golucid.co/careers/) | South Jordan, UT |
 | [MaritzCX](https://maritz.wd1.myworkdayjobs.com/MaritzCX) | Lehi, UT |
 | [MicroFocus](https://jobs.microfocus.com) | Provo, UT |
 | [MX](https://data.mx.com/company) | Lehi, UT |
+| [Nav](https://nav.bamboohr.com/jobs/) | Draper, UT |
 | [Nuvi](https://www.nuvi.com/careers/) | Lehi, UT |
 | Numetric | Lehi, UT |
 | [Overstock](https://overstock.wd5.myworkdayjobs.com/Overstock_Careers?tid=Careers%3A05%3AWorkdayPostions%3AViewAll) | Salt Lake City, UT |
