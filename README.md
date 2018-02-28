@@ -11,6 +11,7 @@
 | [Digicert](https://www.digicert.com/careers/) | Lehi, UT |
 | [Divvy](https://getdivvy.com/jobs/) | Lehi, UT |
 | [Domo](https://www.domo.com/company/careers) | American Fork, UT |
+| [Earnest](https://www.earnest.com/careers/#/overview) | Salt Lake City, UT |
 | [Entrata](https://www.entrata.com/company/careers) | Lehi, UT |
 | [Experticity](https://www.experticity.com/experticity-careers/) | Salt Lake City, UT |
 | [Grow](https://workforcenow.adp.com/jobs/apply/posting.html?client=GrowInc&ccId=1587858689_4783&type=MP&lang=en_US) | Orem, UT|
