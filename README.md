@@ -8,6 +8,7 @@
 | [BambooHR](https://www.bamboohr.com/careers/) | Lindon, UT |
 | [Boostability](https://www.boostability.com/careers/#jobs) | Orem, UT; Lehi, UT |
 | [Canopy Tax](https://www.canopytax.com/careers/) | Lehi, UT |
+| [Crux](https://www.cruxconnect.com/careers/) | Lehi, UT |
 | [Digicert](https://www.digicert.com/careers/) | Lehi, UT |
 | [Divvy](https://getdivvy.com/jobs/) | Lehi, UT |
 | [Domo](https://www.domo.com/company/careers) | American Fork, UT |
@@ -25,6 +26,7 @@
 | [Jive](https://jive.com/careers/locations/?office=44469) | Orem, UT |
 | [Jolt](https://joltup.com) | Orem, UT |
 | [JJUMPP](https://jjumpp.com/careers/) | Lehi, UT |
+| [Kuali](https://kuali.workable.com) | Lehi, UT |
 | [Lingotek](https://www.lingotek.com/careers) | Lehi, UT |
 | [Lucid](https://www.golucid.co/careers/) | South Jordan, UT |
 | [MaritzCX](https://maritz.wd1.myworkdayjobs.com/MaritzCX) | Lehi, UT |
@@ -40,6 +42,7 @@
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT |
 | [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
 | [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
+| [SaltStack](https://saltstack.com/careers/) | Lehi, UT |
 | [Snap](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
 | [SoFi](https://www.sofi.com/careers/) | Cottonwood Heights, UT |
 | [Teem](https://teem.workable.com) | Salt Lake City, UT |
