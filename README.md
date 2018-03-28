@@ -42,6 +42,7 @@
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT |
 | [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
 | [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
+| [SalesRabbit](https://www.salesrabbit.com/careers) | Lehi, UT |
 | [SaltStack](https://saltstack.com/careers/) | Lehi, UT |
 | [Snap](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
 | [SoFi](https://www.sofi.com/careers/) | Cottonwood Heights, UT |
