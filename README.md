@@ -43,6 +43,8 @@
 | [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
 | [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
 | [SaltStack](https://saltstack.com/careers/) | Lehi, UT |
+| [SimpleNexus](https://simplenexus.com/sn/careers/) | Lehi, UT |
+| [Skipio](https://skipio.com/careers/) | Lehi, UT |
 | [Snap](https://www.snap.com/jobs/?locations=Lehi) | Lehi, UT |
 | [SoFi](https://www.sofi.com/careers/) | Cottonwood Heights, UT |
 | [Teem](https://teem.workable.com) | Salt Lake City, UT |
