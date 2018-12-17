@@ -42,6 +42,7 @@
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT |
 | [Rain](https://rain.bamboohr.com/jobs/) | Lehi, UT |
 | [Recursion Pharma](https://www.recursionpharma.com/careers-home/) | Salt Lake City, UT |
+| [SalesRabbit](https://www.salesrabbit.com/careers) | Lehi, UT |
 | [SaltStack](https://saltstack.com/careers/) | Lehi, UT |
 | [SimpleNexus](https://simplenexus.com/sn/careers/) | Lehi, UT |
 | [Skipio](https://skipio.com/careers/) | Lehi, UT |
